@@ -7,7 +7,5 @@ Copyright © 2015-2016 Franklin "Snaipe" Mathieu <http://snai.pe/>
 
 
 NAME: Salvatore Termine
-SBUID: 109528463
 
-USING MY LAST LATE DAY
 # Memory_Allocator
